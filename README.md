@@ -1,5 +1,5 @@
 # Movie-Studio-Blueprint
-<img src="![alt text](image.png)" alt="Microsoft Blueprint" title="BP" width="150" height="100"/>
+![Microsoft Visual Studio Blueprint](https://github.com/Misfit911/Microsoft-Movie-Studio-Blueprint/assets/127237815/66300c64-853c-44ea-bb7b-5735ce301b0d)
 
 ## Overview
 This project leverages data from [Box Office Mojo](https://www.boxofficemojo.com), [IMDb](https://www.imdb.com/) e.t.c. to define Microsoft's New Movie Studio Strategy. 
